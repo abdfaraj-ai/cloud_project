@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+streamlit
+pandas
+pyspark
+pymongo
+pdfplumber
+=======
+streamlit
+pandas
+pyspark
+pymongo
+pdfplumber
+>>>>>>> c43d084824de22875d94ab3a06d13ee91de81d08
